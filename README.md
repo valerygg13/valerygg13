@@ -12,10 +12,15 @@ Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la **Universidad de 
 ---
 
 ### 📊 Mi Actividad en GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valerygg13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryggg13&layout=compact&theme=radical)
+### Stats
 
----
+<div align="center"> 
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=valerygg13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <p>
+   </p>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valerygg13&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 
 ### 🛠️ Lo que encontrarás aquí
 Proyectos de la universidad, ideas personales y cualquier cosa nueva que decida explorar. ¡Siempre abierto a colaborar!
