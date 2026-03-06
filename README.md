@@ -12,8 +12,8 @@ Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la **Universidad de 
 ---
 
 ### 📊 Mi Actividad en GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaps05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaps05&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valerygg13&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryggg13&layout=compact&theme=radical)
 
 ---
 
