@@ -2,7 +2,7 @@
 
 ### Soy Vale
 
-Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la **Universidad de San Carlos de Guatemala (USAC)**.
+Estudiante de **Ingeniería en Ciencias y Sistemas** en la **Universidad de San Carlos de Guatemala (USAC)**.
 
 *   🔭 Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo de software.
 *   🏋️‍♀️ Apasionado por el **ejercicio** y un estilo de vida saludable. 
